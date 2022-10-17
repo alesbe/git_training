@@ -3,3 +3,4 @@ This is a test change, I don't know what to say
 Added a new line!
 
 I added this line in the same spot as change_alice, let's merge and see what happends
+Now, I added these lines in my branch, I want to merge it in master, creating a conflict!
