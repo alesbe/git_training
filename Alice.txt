@@ -1,3 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is a test change, I don't know what to say
 Added a new line!
+
+Now, I added these lines in my branch, I want to merge it in master, creating a conflict!
