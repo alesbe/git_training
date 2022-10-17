@@ -1,3 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is a test change, I don't know what to say
 Added a new line!
+
+I added this line in the same spot as change_alice, let's merge and see what happends
